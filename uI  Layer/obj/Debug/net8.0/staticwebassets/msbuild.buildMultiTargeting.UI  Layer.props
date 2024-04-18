@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UI  Layer.props" />
+</Project>
