@@ -1,109 +1,109 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\uI  Layer\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AADB43D-09A4-483E-B0BA-DD570B831047}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\servicelayer\\eligibilitychecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AADB43D-09A4-483E-B0BA-DD570B831047}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\eligibilitychecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED38AC86-2BAD-4CD6-B88C-5B39017E90DC}|DomainLayer\\DomainLayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\domainlayer\\enum\\educationlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED38AC86-2BAD-4CD6-B88C-5B39017E90DC}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\enum\\educationlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED38AC86-2BAD-4CD6-B88C-5B39017E90DC}|DomainLayer\\DomainLayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\domainlayer\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED38AC86-2BAD-4CD6-B88C-5B39017E90DC}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\ui  layer\\uilayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|solutionrelative:ui  layer\\uilayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AADB43D-09A4-483E-B0BA-DD570B831047}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4AADB43D-09A4-483E-B0BA-DD570B831047}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AADB43D-09A4-483E-B0BA-DD570B831047}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\servicelayer\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AADB43D-09A4-483E-B0BA-DD570B831047}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AADB43D-09A4-483E-B0BA-DD570B831047}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\servicelayer\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AADB43D-09A4-483E-B0BA-DD570B831047}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AADB43D-09A4-483E-B0BA-DD570B831047}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\servicelayer\\isubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AADB43D-09A4-483E-B0BA-DD570B831047}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\isubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\repositorylayer\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED38AC86-2BAD-4CD6-B88C-5B39017E90DC}|DomainLayer\\DomainLayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\domainlayer\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED38AC86-2BAD-4CD6-B88C-5B39017E90DC}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\ui  layer\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|solutionrelative:ui  layer\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\ui  layer\\controllers\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\ui  layer\\controllers\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|solutionrelative:ui  layer\\controllers\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\ui  layer\\controllers\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|solutionrelative:ui  layer\\controllers\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AADB43D-09A4-483E-B0BA-DD570B831047}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\servicelayer\\eligibilitychecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADB43D-09A4-483E-B0BA-DD570B831047}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\eligibilitychecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\repositorylayer\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED38AC86-2BAD-4CD6-B88C-5B39017E90DC}|DomainLayer\\DomainLayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\domainlayer\\enum\\educationlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED38AC86-2BAD-4CD6-B88C-5B39017E90DC}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\enum\\educationlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\ui  layer\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|solutionrelative:ui  layer\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\repositorylayer\\isubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\isubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\ui  layer\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|solutionrelative:ui  layer\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\ui  layer\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|solutionrelative:ui  layer\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED38AC86-2BAD-4CD6-B88C-5B39017E90DC}|DomainLayer\\DomainLayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\domainlayer\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED38AC86-2BAD-4CD6-B88C-5B39017E90DC}|DomainLayer\\DomainLayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\domainlayer\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED38AC86-2BAD-4CD6-B88C-5B39017E90DC}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AADB43D-09A4-483E-B0BA-DD570B831047}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\servicelayer\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AADB43D-09A4-483E-B0BA-DD570B831047}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED38AC86-2BAD-4CD6-B88C-5B39017E90DC}|DomainLayer\\DomainLayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\domainlayer\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED38AC86-2BAD-4CD6-B88C-5B39017E90DC}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\repositorylayer\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED38AC86-2BAD-4CD6-B88C-5B39017E90DC}|DomainLayer\\DomainLayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\domainlayer\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED38AC86-2BAD-4CD6-B88C-5B39017E90DC}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\repositorylayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\ui  layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\ui  layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|solutionrelative:ui  layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\ui  layer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\ui  layer\\controllers\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|solutionrelative:ui  layer\\controllers\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADB43D-09A4-483E-B0BA-DD570B831047}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\servicelayer\\isubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADB43D-09A4-483E-B0BA-DD570B831047}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\isubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADB43D-09A4-483E-B0BA-DD570B831047}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\servicelayer\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADB43D-09A4-483E-B0BA-DD570B831047}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\repositorylayer\\isubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\isubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\repositorylayer\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADB43D-09A4-483E-B0BA-DD570B831047}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\servicelayer\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADB43D-09A4-483E-B0BA-DD570B831047}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADB43D-09A4-483E-B0BA-DD570B831047}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\servicelayer\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AADB43D-09A4-483E-B0BA-DD570B831047}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\repositorylayer\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\repositorylayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\ui  layer\\uilayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|solutionrelative:ui  layer\\uilayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AADB43D-09A4-483E-B0BA-DD570B831047}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4AADB43D-09A4-483E-B0BA-DD570B831047}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\ui  layer\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|solutionrelative:ui  layer\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\ui  layer\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|solutionrelative:ui  layer\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\ui  layer\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|solutionrelative:ui  layer\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\ui  layer\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|solutionrelative:ui  layer\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\repositorylayer\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\ui  layer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4FCC6127-C15D-46C9-8549-A5204DAE5968}|uI  Layer\\UILayer.csproj|solutionrelative:ui  layer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\user\\source\\repos\\ui  layer\\repositorylayer\\migrations\\20240418051139_task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\user\\desktop\\eligibility checker\\repositorylayer\\migrations\\20240418051139_task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09B277CE-A0CF-4BCB-BC39-884BD9177FFA}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\migrations\\20240418051139_task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -114,64 +114,227 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\uI  Layer\\Controllers\\Student.cs",
+              "RelativeDocumentMoniker": "uI  Layer\\Controllers\\Student.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\uI  Layer\\Controllers\\Student.cs",
+              "RelativeToolTip": "uI  Layer\\Controllers\\Student.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:10:39.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\uI  Layer\\Program.cs",
+              "RelativeDocumentMoniker": "uI  Layer\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\uI  Layer\\Program.cs",
+              "RelativeToolTip": "uI  Layer\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:04:15.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EligibilityChecker.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\ServiceLayer\\EligibilityChecker.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\ServiceLayer\\EligibilityChecker.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\EligibilityChecker.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\ServiceLayer\\EligibilityChecker.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\ServiceLayer\\EligibilityChecker.cs",
               "RelativeToolTip": "ServiceLayer\\EligibilityChecker.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAA/AAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwB0AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T11:18:24.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EducationLevel.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\DomainLayer\\Enum\\EducationLevel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\DomainLayer\\Enum\\EducationLevel.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Enum\\EducationLevel.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\DomainLayer\\Enum\\EducationLevel.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\DomainLayer\\Enum\\EducationLevel.cs",
               "RelativeToolTip": "DomainLayer\\Enum\\EducationLevel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T11:47:04.057Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RepositoryLayer.csproj",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\RepositoryLayer\\RepositoryLayer.csproj",
-              "RelativeDocumentMoniker": "RepositoryLayer\\RepositoryLayer.csproj",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\RepositoryLayer\\RepositoryLayer.csproj",
-              "RelativeToolTip": "RepositoryLayer\\RepositoryLayer.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-18T03:44:26.456Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ServiceLayer.csproj",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\ServiceLayer\\ServiceLayer.csproj",
-              "RelativeDocumentMoniker": "ServiceLayer\\ServiceLayer.csproj",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\ServiceLayer\\ServiceLayer.csproj",
-              "RelativeToolTip": "ServiceLayer\\ServiceLayer.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-18T06:34:01.063Z"
+              "WhenOpened": "2024-04-17T11:47:04.057Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\DomainLayer\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\DomainLayer\\BaseEntity.cs",
+              "RelativeToolTip": "DomainLayer\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T03:38:08.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\DomainLayer\\Student.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Student.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\DomainLayer\\Student.cs",
+              "RelativeToolTip": "DomainLayer\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:47:04.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\DomainLayer\\Subject.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Subject.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\DomainLayer\\Subject.cs",
+              "RelativeToolTip": "DomainLayer\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:27:19.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISubjectService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\ServiceLayer\\ISubjectService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\ISubjectService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\ServiceLayer\\ISubjectService.cs",
+              "RelativeToolTip": "ServiceLayer\\ISubjectService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:51:00.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\ServiceLayer\\IStudentService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\ServiceLayer\\IStudentService.cs",
+              "RelativeToolTip": "ServiceLayer\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:50:10.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISubjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\RepositoryLayer\\ISubjectRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\ISubjectRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\RepositoryLayer\\ISubjectRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\ISubjectRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:11:13.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\RepositoryLayer\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\RepositoryLayer\\IStudentRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:50:38.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\uI  Layer\\Controllers\\Subject.cs",
+              "RelativeDocumentMoniker": "uI  Layer\\Controllers\\Subject.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\uI  Layer\\Controllers\\Subject.cs",
+              "RelativeToolTip": "uI  Layer\\Controllers\\Subject.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAQwEkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:17:01.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SubjectService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\ServiceLayer\\SubjectService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\SubjectService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\ServiceLayer\\SubjectService.cs",
+              "RelativeToolTip": "ServiceLayer\\SubjectService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:37:17.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\ServiceLayer\\StudentService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\StudentService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\ServiceLayer\\StudentService.cs",
+              "RelativeToolTip": "ServiceLayer\\StudentService.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:36:35.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\RepositoryLayer\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\RepositoryLayer\\StudentRepository.cs",
+              "RelativeToolTip": "RepositoryLayer\\StudentRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T06:52:28.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\RepositoryLayer\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\RepositoryLayer\\AppDbContext.cs",
+              "RelativeToolTip": "RepositoryLayer\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:21:30.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "UILayer.csproj",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\uI  Layer\\UILayer.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\uI  Layer\\UILayer.csproj",
               "RelativeDocumentMoniker": "uI  Layer\\UILayer.csproj",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\uI  Layer\\UILayer.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\uI  Layer\\UILayer.csproj",
               "RelativeToolTip": "uI  Layer\\UILayer.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -179,95 +342,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\DomainLayer\\Student.cs",
-              "RelativeDocumentMoniker": "DomainLayer\\Student.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\DomainLayer\\Student.cs",
-              "RelativeToolTip": "DomainLayer\\Student.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAYwA0AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T11:47:04.939Z"
+              "DocumentIndex": 17,
+              "Title": "ServiceLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\ServiceLayer\\ServiceLayer.csproj",
+              "RelativeDocumentMoniker": "ServiceLayer\\ServiceLayer.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\ServiceLayer\\ServiceLayer.csproj",
+              "RelativeToolTip": "ServiceLayer\\ServiceLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T06:34:01.063Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IStudentService.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\ServiceLayer\\IStudentService.cs",
-              "RelativeDocumentMoniker": "ServiceLayer\\IStudentService.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\ServiceLayer\\IStudentService.cs",
-              "RelativeToolTip": "ServiceLayer\\IStudentService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAYwA8AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T05:50:10.679Z"
+              "DocumentIndex": 18,
+              "Title": "RepositoryLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeDocumentMoniker": "RepositoryLayer\\RepositoryLayer.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeToolTip": "RepositoryLayer\\RepositoryLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-18T03:44:26.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\ServiceLayer\\StudentService.cs",
-              "RelativeDocumentMoniker": "ServiceLayer\\StudentService.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\ServiceLayer\\StudentService.cs",
-              "RelativeToolTip": "ServiceLayer\\StudentService.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAcwCoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T06:36:35.767Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ISubjectService.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\ServiceLayer\\ISubjectService.cs",
-              "RelativeDocumentMoniker": "ServiceLayer\\ISubjectService.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\ServiceLayer\\ISubjectService.cs",
-              "RelativeToolTip": "ServiceLayer\\ISubjectService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T05:51:00.942Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IStudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\RepositoryLayer\\IStudentRepository.cs",
-              "RelativeDocumentMoniker": "RepositoryLayer\\IStudentRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\RepositoryLayer\\IStudentRepository.cs",
-              "RelativeToolTip": "RepositoryLayer\\IStudentRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T06:50:38.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Subject.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\DomainLayer\\Subject.cs",
-              "RelativeDocumentMoniker": "DomainLayer\\Subject.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\DomainLayer\\Subject.cs",
-              "RelativeToolTip": "DomainLayer\\Subject.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAYwA8AAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T11:27:19.055Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\uI  Layer\\Program.cs",
-              "RelativeDocumentMoniker": "uI  Layer\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\uI  Layer\\Program.cs",
-              "RelativeToolTip": "uI  Layer\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T05:04:15.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\uI  Layer\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\uI  Layer\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "uI  Layer\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\uI  Layer\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\uI  Layer\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "uI  Layer\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -275,59 +378,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\uI  Layer\\Controllers\\Student.cs",
-              "RelativeDocumentMoniker": "uI  Layer\\Controllers\\Student.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\uI  Layer\\Controllers\\Student.cs",
-              "RelativeToolTip": "uI  Layer\\Controllers\\Student.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAQwDsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T09:10:39.338Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Subject.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\uI  Layer\\Controllers\\Subject.cs",
-              "RelativeDocumentMoniker": "uI  Layer\\Controllers\\Subject.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\uI  Layer\\Controllers\\Subject.cs",
-              "RelativeToolTip": "uI  Layer\\Controllers\\Subject.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T09:17:01.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "StudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\RepositoryLayer\\StudentRepository.cs",
-              "RelativeDocumentMoniker": "RepositoryLayer\\StudentRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\RepositoryLayer\\StudentRepository.cs",
-              "RelativeToolTip": "RepositoryLayer\\StudentRepository.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAACAAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T06:52:28.939Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ISubjectRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\RepositoryLayer\\ISubjectRepository.cs",
-              "RelativeDocumentMoniker": "RepositoryLayer\\ISubjectRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\RepositoryLayer\\ISubjectRepository.cs",
-              "RelativeToolTip": "RepositoryLayer\\ISubjectRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T07:11:13.109Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\uI  Layer\\Models\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\uI  Layer\\Models\\Student.cs",
               "RelativeDocumentMoniker": "uI  Layer\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\uI  Layer\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\uI  Layer\\Models\\Student.cs",
               "RelativeToolTip": "uI  Layer\\Models\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -335,11 +390,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\uI  Layer\\Models\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\uI  Layer\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "uI  Layer\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\uI  Layer\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\uI  Layer\\Models\\BaseEntity.cs",
               "RelativeToolTip": "uI  Layer\\Models\\BaseEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -347,11 +402,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "SubjectRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\RepositoryLayer\\SubjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\RepositoryLayer\\SubjectRepository.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\SubjectRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\RepositoryLayer\\SubjectRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\RepositoryLayer\\SubjectRepository.cs",
               "RelativeToolTip": "RepositoryLayer\\SubjectRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -359,11 +414,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Subject.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\uI  Layer\\Models\\Subject.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\uI  Layer\\Models\\Subject.cs",
               "RelativeDocumentMoniker": "uI  Layer\\Models\\Subject.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\uI  Layer\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\uI  Layer\\Models\\Subject.cs",
               "RelativeToolTip": "uI  Layer\\Models\\Subject.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -371,47 +426,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\DomainLayer\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "DomainLayer\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\DomainLayer\\BaseEntity.cs",
-              "RelativeToolTip": "DomainLayer\\BaseEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T11:47:03.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "SubjectService.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\ServiceLayer\\SubjectService.cs",
-              "RelativeDocumentMoniker": "ServiceLayer\\SubjectService.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\ServiceLayer\\SubjectService.cs",
-              "RelativeToolTip": "ServiceLayer\\SubjectService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T06:37:17.394Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\RepositoryLayer\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "RepositoryLayer\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\RepositoryLayer\\AppDbContext.cs",
-              "RelativeToolTip": "RepositoryLayer\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T04:21:30.906Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 24,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\uI  Layer\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\uI  Layer\\appsettings.json",
               "RelativeDocumentMoniker": "uI  Layer\\appsettings.json",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\uI  Layer\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\uI  Layer\\appsettings.json",
               "RelativeToolTip": "uI  Layer\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -421,9 +440,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "20240418051139_task2.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\uI  Layer\\RepositoryLayer\\Migrations\\20240418051139_task2.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\RepositoryLayer\\Migrations\\20240418051139_task2.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\Migrations\\20240418051139_task2.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\uI  Layer\\RepositoryLayer\\Migrations\\20240418051139_task2.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\RepositoryLayer\\Migrations\\20240418051139_task2.cs",
               "RelativeToolTip": "RepositoryLayer\\Migrations\\20240418051139_task2.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

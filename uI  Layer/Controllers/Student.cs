@@ -9,10 +9,14 @@ namespace uI__Layer.Controllers
     public class StudentsController : ControllerBase
     {
         private readonly IStudentService _studentService;
+        private readonly ISubjectService _subjectService;
+        private readonly EligibilityChecker _eligibilityChecker;
 
-        public StudentsController(IStudentService studentService)
+        public StudentsController(IStudentService studentService, ISubjectService subjectService, EligibilityChecker eligibilityChecker)
         {
             _studentService = studentService;
+            _subjectService = subjectService;
+            _eligibilityChecker = eligibilityChecker;
         }
 
         [HttpGet]
@@ -74,5 +78,28 @@ namespace uI__Layer.Controllers
             await _studentService.DeleteStudentAsync(id);
             return NoContent();
         }
+
+        [HttpGet("CheckEligibility")]
+        public async Task<IActionResult> CheckEligibility(Student student, int subjectId)
+        {
+            if (student == null)
+            {
+                return BadRequest("Student information is required.");
+            }
+
+            var subject = await _subjectService.GetSubjectByIdAsync(subjectId);
+
+            if (subject == null)
+            {
+                return NotFound($"Subject with ID {subjectId} not found.");
+            }
+
+            bool isEligible = _eligibilityChecker.IsStudentEligibleForSubject(student, subject);
+
+            return Ok(new { IsEligible = isEligible, Message = isEligible ? "Student is eligible for the subject." : "Student is not eligible for the subject." });
+        }
+
+
+
     }
 }

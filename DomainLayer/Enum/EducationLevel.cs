@@ -8,8 +8,8 @@ namespace DomainLayer
 {
     public enum EducationLevelEnum
     {
-        HighSchool,
-        Undergraduate,
-        Graduate
+        SSC,
+        HSC,
+        BSC
     }
 }

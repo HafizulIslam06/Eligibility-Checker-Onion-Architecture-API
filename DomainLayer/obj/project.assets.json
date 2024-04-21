@@ -4111,11 +4111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\uI  Layer\\DomainLayer\\DomainLayer.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\DomainLayer\\DomainLayer.csproj",
       "projectName": "DomainLayer",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\uI  Layer\\DomainLayer\\DomainLayer.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\DomainLayer\\DomainLayer.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\uI  Layer\\DomainLayer\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\DomainLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

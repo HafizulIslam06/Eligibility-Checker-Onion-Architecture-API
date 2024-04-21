@@ -17,6 +17,8 @@ builder.Services.AddScoped<ISubjectRepository<Subject>, SubjectRepository>();
 // Register services
 builder.Services.AddScoped<IStudentService, StudentService>();
 builder.Services.AddScoped<ISubjectService, SubjectService>();
+builder.Services.AddScoped<EligibilityChecker>();
+builder.Services.AddControllers();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

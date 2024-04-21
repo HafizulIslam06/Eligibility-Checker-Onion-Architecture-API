@@ -4129,11 +4129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\uI  Layer\\RepositoryLayer\\RepositoryLayer.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\RepositoryLayer\\RepositoryLayer.csproj",
       "projectName": "RepositoryLayer",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\uI  Layer\\RepositoryLayer\\RepositoryLayer.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\RepositoryLayer\\RepositoryLayer.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\uI  Layer\\RepositoryLayer\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\RepositoryLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4150,8 +4150,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\USER\\source\\repos\\uI  Layer\\DomainLayer\\DomainLayer.csproj": {
-              "projectPath": "C:\\Users\\USER\\source\\repos\\uI  Layer\\DomainLayer\\DomainLayer.csproj"
+            "C:\\Users\\USER\\Desktop\\Eligibility Checker\\DomainLayer\\DomainLayer.csproj": {
+              "projectPath": "C:\\Users\\USER\\Desktop\\Eligibility Checker\\DomainLayer\\DomainLayer.csproj"
             }
           }
         }
